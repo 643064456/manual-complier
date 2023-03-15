@@ -1,0 +1,9 @@
+# ninja log v5
+3	574	6908891311965025	CMakeFiles/compiler.dir/main.cpp.obj	d6a5157dd793f801
+19	559	6908891311815426	CMakeFiles/compiler.dir/CodeGen.cpp.obj	29ee0065b8985777
+24	626	6908506051302236	CMakeFiles/compiler.dir/AstNode.cpp.obj	108999d1a7bcdbb3
+529	709	6908601507186363	compiler.exe	c183a3e1411f5b56
+12	97	6908891307197590	CMakeFiles/compiler.dir/driver.c.obj	e2f4de952a31fc84
+10	739	6908506052428563	CMakeFiles/compiler.dir/Parser.cpp.obj	f9791fea3ff4425f
+17	670	6908506051741090	CMakeFiles/compiler.dir/Lexer.cpp.obj	d5ca4426755006ba
+11	640	6908600064128861	CMakeFiles/compiler.dir/Print.cpp.obj	a85ebf8aa9238210
